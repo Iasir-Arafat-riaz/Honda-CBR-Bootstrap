@@ -1,18 +1,19 @@
-body{
-    margin: 0;
-}
-.header-bg{
+
+
+.header-bg , .submit-section{
     background-color: #264653;
     
 }
-main{
-    /* width: 90%; */
-}
+
 .gray-image{
     filter: grayscale(100%);
 }
-.fa-star{
+.fa-star , span{
     color:#E76F51;
+}
+.common-button{
+    background-color: #E76F51;
+   
 }
 /* .nigro-lady img{
    height: 100%;
